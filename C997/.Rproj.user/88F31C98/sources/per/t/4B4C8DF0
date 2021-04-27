@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590497647375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3712341343",
+    "id" : "4B4C8DF0",
+    "lastKnownWriteTime" : 1590497334,
+    "last_content_update" : 1590497334,
+    "path" : "~/R-Labs/C997/C997.R",
+    "project_path" : "C997.R",
+    "properties" : {
+        "cursorPosition" : "5,15",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
